@@ -1,2 +1,1 @@
-text writed in main branch
-text writed in featureX branche
+text writed in text file "fileA.txt" and commited to main branche in the aim of creating a state with the local repository ahead on of the remote repository 
