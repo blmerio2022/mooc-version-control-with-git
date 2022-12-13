@@ -1,2 +1,3 @@
 text writed in text file "fileA.txt" and commited to fatureX branche in the aim of rebasing this commit onto the main branche
 text writed in text file "fileA.txt" and commited to fatureX branche in the aim of rebasing this commit onto the main branche 
+text writed in text file "fileA.txt" and commited to fatureX branche in the aim of rebasing this commit onto the main branche 
