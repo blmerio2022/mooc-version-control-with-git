@@ -1,1 +1,1 @@
-text writed in text file "fileA.txt" and commited to main branche in the aim of creating a state with the local repository ahead on of the remote repository 
+text writed in text file "fileA.txt" and commited to fatureX branche in the aim of rebasing this commit onto the main branche 
